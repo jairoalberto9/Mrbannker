@@ -38,7 +38,7 @@ rnd = ''.join(random.choices(string.ascii_lowercase +
 async def helpstr(message: types.Message):
     await message.answer_chat_action("typing")
     await message.reply(
-        "Hello how to use <code>/chk cc/mm/yy/cvv</code>\nREPO <a href='https://github.com/xbinner18/Mrbannker'>Here</a>"
+        "Hello how to use <code>/chk cc/mm/yy/cvv</code>\nREPO <a href='https://m.facebook.com/Bosar88'>Here</a>"
     )
     
 
